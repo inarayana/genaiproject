@@ -1,4 +1,4 @@
-Intelligent Regulatory Assistant using RAG with Responsible AI for GDPR
+Project Name: Intelligent Regulatory Assistant using RAG with Responsible AI for GDPR
 Course-end Project 3
 Description
 
